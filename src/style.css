@@ -12,6 +12,7 @@ main {
 
 
 .box {
+    color: #0ba7db;
     box-shadow: .1em .1em .2em #80D4FF;
     border-radius: .4em;
     border-width: .01em;
